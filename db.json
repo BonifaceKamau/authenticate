@@ -5,7 +5,7 @@
       "title": "hello",
       "password": "1234567890",
       "username": "John@gmail.com",
-      "isactive": true,
+      "isactive": true
       
     }
   ]
