@@ -1,15 +1,11 @@
 {
-  "users": [
+  "posts": [
     {
-      "id": 8,
-      "title": "hello",
-      "username": "kim",
-      "password": "1234"
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
     "name": "typicode"
   }
 }
-
-
