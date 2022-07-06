@@ -1,8 +1,10 @@
 {
-  "posts": [
+  "authenticate": [
     {
-      "id": 1,
-      "title": "hello"
+      "user_id": 8,
+      "email": "test@gmail.com"
+      "username": "Richard"
+      "password": "pass1234"
     }
   ],
   "profile": {
