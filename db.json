@@ -4,9 +4,7 @@
       "id": 8,
       "title": "hello",
       "password": "1234567890",
-      "username": "John@gmail.com",
-      "isactive": true
-      
+      "username": "John@gmail.com"  
     }
   ]
 }
