@@ -1,1 +1,12 @@
-
+{
+  "users": [
+    {
+      "id": 8,
+      "username": "kim",
+      "password": "pass123",
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
